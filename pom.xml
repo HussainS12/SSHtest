@@ -48,6 +48,6 @@
   </dependencies>
   <build> 
     <finalName>JavaVulnerableLab</finalName>
-  </build>    
+  </build>     
 </project>          
    
