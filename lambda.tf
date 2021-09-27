@@ -15,6 +15,6 @@ resource "aws_lambda_function" "example" {
    handler = "MyHandler::handleRequest"
    runtime = "java11"
 
-   role = aws_iam_role.lambda_exec.arn
+   role = aws_iam_role.lambda_exec.arn   
 }
 
