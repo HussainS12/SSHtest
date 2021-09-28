@@ -6,7 +6,7 @@ resource "aws_db_instance" "default" {
   instance_class       = "db.t2.micro"
   name                 = "myRDSdb"
   username             = "foo"
-  password             = "foobarbaz"
+  password             = "foobarbaz"  
   parameter_group_name = "default.mysql5.7"
     
   
