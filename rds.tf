@@ -8,7 +8,7 @@ resource "aws_db_instance" "default" {
   username             = "foo"
   password             = "foobarbaz"
   parameter_group_name = "default.mysql5.7"
-  
+   
   
   #backup_window           = "09:01-11:00"
   #backup_retention_period = 7
