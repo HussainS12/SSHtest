@@ -21,3 +21,4 @@ resource "aws_sqs_queue_policy" "test" {
     POLICY
 }
   
+ 
