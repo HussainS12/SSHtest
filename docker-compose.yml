@@ -5,7 +5,7 @@ javavulnlab:
   links: 
     - mysql
   
-mysql:
+mysql:  
   image: mysql
   environment:
     - MYSQL_ROOT_PASSWORD=root    
