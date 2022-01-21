@@ -26,7 +26,7 @@ How to Use/Setup ?
      1. Install Docker: https://docs.docker.com/engine/installation/ 
      2. Install docker-compose: https://docs.docker.com/compose/install/
      3. Inside this directory, run `sudo docker-compose up` and wait untill everything is configured for you.
-     4. In your Browser, go to "http://localhost:8080/JavaVulnerableLab/install.jsp
+     4. In your Browser, go to "http://localhost:8080/JavaVulnerableLab/install.jsp 
      5. Change the JDBC URL from jdbc:mysql://localhost:3306 to jdbc:mysql://mysql:3306
      6. Click the Install Button
      7. Enjoy :)
