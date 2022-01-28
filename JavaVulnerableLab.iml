@@ -10,7 +10,7 @@
         <webroots>
           <root url="file://$MODULE_DIR$/src/main/webapp" relative="/" />
         </webroots>
-      </configuration> 
+      </configuration>  
     </facet>
   </component>
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_5">
@@ -23,7 +23,7 @@
     </content>
     <orderEntry type="inheritedJdk" /> 
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="TEST" name="Maven: junit:junit:3.8.1" level="project" /> 
+    <orderEntry type="library" scope="TEST" name="Maven: junit:junit:3.8.1" level="project" />  
     <orderEntry type="library" name="Maven: mysql:mysql-connector-java:5.1.26" level="project" />
     <orderEntry type="library" name="Maven: org.json:json:20131018" level="project" />
     <orderEntry type="library" name="Maven: javax.servlet:jstl:1.2" level="project" /> 
