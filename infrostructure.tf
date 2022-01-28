@@ -30,7 +30,7 @@ resource "aws_alb_listener" "front_end" {
   protocol          = "HTTP"
 }
 
-# Create instance 
+# Create instance  
 resource "aws_instance" "http" {
   for_each      = var.http_instance_names
   ami           = data.aws_ami.ubuntu.id
