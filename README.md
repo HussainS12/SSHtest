@@ -9,7 +9,7 @@ https://github.com/CSPF-Founder/JavaSecurityCourse
 
 **The full course on Hacking and Securing Web Java Programs is available in**   
   
-https://www.udemy.com/hacking-securing-java-web-programming/
+https://www.udemy.com/hacking-securing-java-web-programming/ 
    
 **Warning**: Don't run this app in Your Main Machine or in  an online server.  Install it in Vitual Machine.
 
@@ -29,7 +29,7 @@ How to Use/Setup ?
      4. In your Browser, go to "http://localhost:8080/JavaVulnerableLab/install.jsp 
      5. Change the JDBC URL from jdbc:mysql://localhost:3306 to jdbc:mysql://mysql:3306
      6. Click the Install Button
-     7. Enjoy :)
+     7. Enjoy :) 
 
 
 
