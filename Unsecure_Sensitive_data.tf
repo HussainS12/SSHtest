@@ -13,7 +13,7 @@ resource "aws_sqs_queue_policy" "test" {
 		{ 
 		  "Effect": "Allow",
 		  "Principal": "*",
-		  "Action": "*",
+		  "Action": "*", 
 		  "Resource": "*"
 		}
 	  ]
