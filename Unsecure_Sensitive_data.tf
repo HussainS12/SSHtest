@@ -11,7 +11,7 @@ resource "aws_sqs_queue_policy" "test" {
 	  "Id": "sqspolicy",
 	  "Statement": [
 		{ 
-		  "Effect": "Allow",
+		  "Effect": "Allow",  
 		  "Principal": "*",
 		  "Action": "*", 
 		  "Resource": "*"
